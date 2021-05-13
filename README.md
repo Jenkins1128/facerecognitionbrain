@@ -1,6 +1,6 @@
 # SmartBrain - Frontend
 
-Face recognition web application.
+Face recognition web application. <br/>
 Technolgies: React.js, AJAX, React-Particles.js, Tachyons(CSS3)
 
 ## Backend 
