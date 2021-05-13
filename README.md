@@ -1,7 +1,7 @@
 # SmartBrain - Frontend
 
 Face recognition web application.
-Technolgies: React.js, Knex.js, React-Particles.js, Clarifai API
+Technolgies: React.js, Knex.js, React-Particles.js, Tachyons(CSS3), Clarifai API
 
 ## Backend 
 
