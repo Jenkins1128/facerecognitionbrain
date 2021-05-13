@@ -81,7 +81,7 @@ class App extends Component {
 	};
 
 	displayFaceBox = (box) => {
-		this.setState({ box: box });
+		this.setState({ box });
 	};
 
 	onInputChange = (event) => {
@@ -123,6 +123,8 @@ class App extends Component {
 			this.setState(initialState);
 		} else if (route === 'home') {
 			this.setState({ isSignedIn: true, route: route });
+		} else {
+			this.setState({ route });
 		}
 	};
 
